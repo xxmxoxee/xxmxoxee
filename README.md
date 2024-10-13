@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:8e9eab,100:eef2f3&height=200&section=header&text=Collaborate,%20Code,%20Create!&fontColor=353535&fontSize=50&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:8e9eab,100:eef2f3&height=150&section=header&text=Collaborate,%20Code,%20Create!&fontColor=353535&fontSize=50&animation=fadeIn" />
 
 
 
